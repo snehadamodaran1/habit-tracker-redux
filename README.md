@@ -11,3 +11,5 @@ import { configureStore } from '@reduxjs/toolkit'
 slice => state + actions + reducers
 
 Node version : v24.14.0
+
+<img width="962" height="920" alt="image" src="https://github.com/user-attachments/assets/ad4e1ff7-2675-4537-bc67-7ea07fcf1b8c" />
