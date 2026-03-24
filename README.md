@@ -1,3 +1,9 @@
+Habit tracker application:
+Stack used: 
+React
+Redux
+REdux Thunk
+
 npm create vite@latest
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
